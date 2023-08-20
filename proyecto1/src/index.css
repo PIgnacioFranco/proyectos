@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: blueviolet;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+p {
+    color: beige;
+}
